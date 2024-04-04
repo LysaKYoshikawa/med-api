@@ -10,7 +10,7 @@ public class MedicoCotroller {
 
     @PostMapping
     public void cadastrar(String json){
-        System.out.println(json);
+//        System.out.println(json);
 
     }
 }
